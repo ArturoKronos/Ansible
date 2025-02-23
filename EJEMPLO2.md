@@ -1,7 +1,6 @@
 # 2: Eliminar una tarea cron existente
 
 ***
-
 ## Playbook:
 ```
 - name: Eliminar una tarea cron
@@ -13,8 +12,10 @@
         state: absent
         user: "root"
 ```
+***
 ![img](img/img4.png)
 
+***
 ### Explicación:
 
 `name`: Nombre de la tarea a eliminar.
@@ -22,12 +23,12 @@
 `state`: absent: Indica que la tarea debe ser eliminada.
 
 `user`: Usuario del que se eliminará la tarea.
-
+***
 ### Resultado esperado en el servidor remoto:
 
 ```
 $ crontab -l -u root
 # (No output, la tarea fue eliminada)
 ```
-
+***
 ![img](img/img5.png)

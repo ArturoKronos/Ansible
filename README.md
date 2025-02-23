@@ -41,7 +41,7 @@ Control sobre el usuario bajo el cual se ejecuta la tarea.
 
  [CHATGPT](https://www.chatgpt.com)
  
- [CLASES DE RAFAEL VIDAL](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
+ [CLASES DE MANOLO ](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
 
 ***
 

@@ -26,9 +26,9 @@ Control sobre el usuario bajo el cual se ejecuta la tarea.
 ***
 ## FUNCINAMIENTOS
 
-[Ejemplo 1 ](ejmeplo1.md)
+[EJEMPLO 1 ](EJEMPLO1.md)
 
-[Ejemplo 2 ](ejemplo2.md)
+[EJEMPLO 2 ](EJEMPLO2.md)
 
 ***
 

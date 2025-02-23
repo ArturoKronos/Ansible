@@ -1,7 +1,7 @@
 # Estudio de un Módulo de Ansible
 ***
 
-## Módulo: ansible.builtin.cron
+## Módulo: `ansible.builtin.cron`
 
 ***
 
@@ -11,7 +11,7 @@
 
 ## Descripción
 
-El módulo ansible.builtin.cron permite gestionar tareas programadas en sistemas basados en Linux mediante cron. Con este módulo, se pueden agregar, modificar o eliminar tareas cron de forma automatizada, lo que es útil para la administración de servidores y la ejecución de scripts de mantenimiento.
+El módulo `ansible.builtin.cron` permite gestionar tareas programadas en sistemas basados en Linux mediante cron. Con este módulo, se pueden agregar, modificar o eliminar tareas cron de forma automatizada, lo que es útil para la administración de servidores y la ejecución de scripts de mantenimiento.
 
 Algunas de sus funcionalidades clave incluyen:
 
@@ -31,17 +31,13 @@ Control sobre el usuario bajo el cual se ejecuta la tarea.
 
 ***
 
-## Referencias
-
-***
-
-***
-
 # REFERENCIAS
 
  [CHATGPT](https://www.chatgpt.com)
  
  [CLASES DE MANOLO ](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
+
+ [DOCUMENTACIÓN OFICIAL DE ANSIBLE ](https://docs.ansible.com/ansible/latest/collections/ansible/builtin/package_module.html)
 
 ***
 

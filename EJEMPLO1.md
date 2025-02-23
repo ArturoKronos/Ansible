@@ -17,7 +17,7 @@
         user: "root"
 ```
 
-[img](img/img2.png)
+![img](img/img2.png)
 
 ### Explicación
 
@@ -36,4 +36,4 @@ $ crontab -l -u root
 0 2 * * * /usr/local/bin/backup.sh
 ```
 
-[img](img/img3.png)
+!img](img/img3.png)

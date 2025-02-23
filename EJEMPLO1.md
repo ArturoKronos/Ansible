@@ -1,7 +1,6 @@
 # 1: Agregar una tarea cron para ejecutar un script cada día a las 2 AM
 
 ***
-
 ## Playbook:
 
 ```
@@ -16,9 +15,10 @@
         job: "/usr/local/bin/backup.sh"
         user: "root"
 ```
+***
 
 ![img](img/img2.png)
-
+***
 ### Explicación
 
 `name`: Nombre descriptivo de la tarea cron.
@@ -28,12 +28,12 @@
 `job`: Comando o script a ejecutar.
 
 `user`: Usuario que ejecutará la tarea.
-
+***
 ### Resultado esperado en el servidor remoto:
 
 ```
 $ crontab -l -u root
 0 2 * * * /usr/local/bin/backup.sh
 ```
-
+***
 ![img](img/img3.png)

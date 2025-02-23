@@ -26,9 +26,9 @@ Algunas de sus funcionalidades clave incluyen:
 
 ## FUNCIONAMIENTOS
 
-[EJEMPLO 1 ](EJEMPLO1.md) ### AGREGAR TAREA
+[AGREGAR TAREA ](EJEMPLO1.md)
 
-[EJEMPLO 2 ](EJEMPLO2.md) ### ELIMINAR TAREA
+[ELIMINAR TAREA ](EJEMPLO2.md) 
 
 ***
 

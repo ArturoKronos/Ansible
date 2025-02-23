@@ -1,13 +1,13 @@
 # Estudio de un Módulo de Ansible
 ***
 
-## Módulo: `ansible.builtin.cron`
+<p align="center">
+  <img src="img/img1.png" alt="img" width="500px">
+</p>
 
 ***
 
-<p align="center">
-  <img src="img/img1.png" alt="img">
-</p>
+## Módulo: `ansible.builtin.cron`
 
 ***
 
@@ -49,4 +49,5 @@ Algunas de sus funcionalidades clave incluyen:
 <p align="center">
   <img src="img/maz.jpg" alt="maz">
 </p>
+
 

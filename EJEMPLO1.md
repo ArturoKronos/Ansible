@@ -6,7 +6,7 @@
 
 ```
 - name: Agregar una tarea cron
-  hosts: servidores
+  hosts: all
   tasks:
     - name: Crear una tarea cron para ejecutar un script diariamente
       ansible.builtin.cron:

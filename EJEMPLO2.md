@@ -11,3 +11,14 @@
         state: absent
         user: "root"
 ```
+
+### Explicación:
+
+`name`: Nombre de la tarea a eliminar.
+
+`state`: absent: Indica que la tarea debe ser eliminada.
+
+`user`: Usuario del que se eliminará la tarea.
+
+![img](img/img4.png)
+

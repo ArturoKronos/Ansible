@@ -29,3 +29,5 @@
 $ crontab -l -u root
 # (No output, la tarea fue eliminada)
 ```
+
+![img](img/img5.png)

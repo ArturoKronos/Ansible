@@ -32,7 +32,7 @@ Algunas de sus funcionalidades clave incluyen:
 
 ***
 
-# REFERENCIAS
+## REFERENCIAS
 
 - [CHATGPT](https://www.chatgpt.com)
 - [CLASES DE MANOLO ](https://blogsaverroes.juntadeandalucia.es/iesrodrigocaro/)
@@ -40,7 +40,7 @@ Algunas de sus funcionalidades clave incluyen:
 
 ***
 
-# AUTOR
+## AUTOR
 
 [Arturo Kronos Fernández Curiel ](https://github.com/ArturoKronos)
 
